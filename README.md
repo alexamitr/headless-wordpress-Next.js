@@ -1,4 +1,4 @@
-# Landin page development
+# Landing page development
 
 Headless WordPress + Next.js project 
 The project includes a Docker-based WordPress backend with a custom post type for travel packages and a Next.js frontend using the App Router and Tailwind CSS. The frontend fetches package data from the WordPress REST API, displays the listing according to the provided Figma design, and includes filtering, sorting, responsive layouts, and empty-state handling.
